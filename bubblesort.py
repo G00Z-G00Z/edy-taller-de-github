@@ -11,3 +11,5 @@ def bubbleSort(arr):
             break
         #no se como se hacen los comentarios en python
         #a ya vi como
+
+        #Pero ya fuera de todo concepto imaginable, francamente los cuchillos si es el mejor cubierto
