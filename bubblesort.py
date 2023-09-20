@@ -1,5 +1,6 @@
 def bubbleSort(arr):
     n = len(arr)
+    print("Wakaka")
     for i in range(n - 1):
         swapped = False
         for j in range(0, n - i - 1):
