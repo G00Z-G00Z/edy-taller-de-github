@@ -1,5 +1,8 @@
 def bubbleSort(arr):
     n = len(arr)
+    print("Miau!!!")
+    print(n)
+    print("1"*n)
     for i in range(n - 1):
         swapped = False
         for j in range(0, n - i - 1):
