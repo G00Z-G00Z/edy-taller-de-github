@@ -9,3 +9,5 @@ def bubbleSort(arr):
 
         if not swapped:
             break
+        #no se como se hacen los comentarios en python
+        #a ya vi como
