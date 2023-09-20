@@ -10,3 +10,4 @@ def bubbleSort(arr):
 
         if not swapped:
             break
+    print("El programa funciono")
